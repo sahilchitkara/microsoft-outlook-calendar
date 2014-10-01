@@ -1,0 +1,11 @@
+{
+    "name": "microsoft-outlook-calendar",
+    "description": "Node.Js Api for microsoft outlook calendars",
+    "homepage": "https://github.com/sahilchitkara/microsoft-calendar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sahilchitkara/microsoft-calendar"
+    },
+    "version": "0.0.1",
+    "main": "./microsoftCalendar"
+}
